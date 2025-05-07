@@ -2,7 +2,7 @@
 This repository contains a machine learning pipeline for automatic gender classification based on short audio samples. The project uses a dataset of 24,000 utterances from male and female speakers (LibriSpeech) to combine signal processing techniques (like MFCC and fundamental frequency extraction) with classical ML models (Logistic Regression, SVM, MLP).
 
 ## What's Inside?
-1) ml.py – complete audio preprocessing pipeline:
+1) classifier.py – complete audio preprocessing pipeline:
 
 - pre-emphasis filtering
 
