@@ -1,0 +1,11 @@
+librosa
+numpy
+scipy.fftpack
+soundfile
+os
+pandas
+sklearn.model_selection
+sklearn.svm
+sklearn.metrics
+sklearn.linear_model
+sklearn.neural_network
