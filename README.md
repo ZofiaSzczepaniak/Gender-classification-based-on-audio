@@ -25,7 +25,7 @@ This repository contains a machine learning pipeline for automatic gender classi
 ## Requirements
 - LibriSpeech audio samples
 - Python 3.12
-
+ 
 ## Instruction:
 First, to use the program, one must install the Python compiler. To do so, enter the site and follow the given steps: https://code.visualstudio.com/
 
