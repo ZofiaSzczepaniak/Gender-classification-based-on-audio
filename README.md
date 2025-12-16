@@ -15,7 +15,7 @@ This repository contains a machine learning pipeline for automatic gender classi
 2) extract.py – utility to extract and resample audio files from the dataset based on gender metadata
 3) ff.py - fundamental frequency extractor
 
-## Highlights
+## Conclusions
 - Achieved 98% accuracy using SVM with RBF kernel
 
 - Avoided deep learning to test the power of traditional ML
